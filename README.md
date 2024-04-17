@@ -14,7 +14,17 @@
     - Slack for better visibility and sharing of alerts.
 3. PagerDuty also provides escalation paths and detailed reports on incidents.
 
-## Well maintained runbooks
+## Other factors to consider
 
- 
+## Well maintained runbooks & training
+1. Have a well maintanted and upto date runbook for the on-calls to refer to, which would reduce the time spent on recurring issues or repetitive tasks.
+2. Provide the oncalls the required trainings, conduct mock 
+
+## Self service & user guides
+1. Provide a self service bot or option for the users to execute repetitive tasks themselves.
+2. Have a well document user guide so that the users don't need to reach out. Keep the user guide / FAQ updated on a regular basis with the questions that are frequently asked.
+
+
+ ## Feedback & continuous improvement
+ 1. Alerts need to be regularly reviewed and feedbacks need to be gathered so that pain points can be addressed.
 
