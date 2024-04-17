@@ -3,7 +3,7 @@
 ## Alert reduction
 1. Review the existing alerts (of, say past three months). 
 2. Differentiate between the critical actionable ones & noise. Write stories and fix the actionable & critical ones. 
-3. If it is noise and can be eliminated, eliminate it. If not, mark it for review.
+3. If it is noise and can be eliminated, eliminate it. 
 4. If any responses can be automated, write stories to automate it.
 
 ## Prioritization
