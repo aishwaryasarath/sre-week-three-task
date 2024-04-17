@@ -1,0 +1,3 @@
+The pod restarted 5 times!!
+Maximum number of restarts exceeded. Scaling down the deployment...
+deployment.apps/swype-app scaled
